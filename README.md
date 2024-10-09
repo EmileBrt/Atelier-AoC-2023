@@ -2,8 +2,8 @@
 
 Vous touverez une traduction en français des challenges pour les moins anglophones d'entre vous :  [ici](/Sujet) !
 
-| Day | Estimade Difficulty | Part 1 | Part 2 | particularity |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Day | Estimade Difficulty | Part 1 | Part 2 |
+|:--------:|:--------:|:--------:|:--------:|
 | 1   | 1/5             | [x](solution\solution1.py) | [x](solution\solution1_1.py) |
 | 6   | 1/5           | [x](solution\solution6.py) | [x](solution\solution6_1.py) | 
 | 8   | 2/5         | [x](solution\solution8.py)   |  [x](solution\solution8_1.py)  | 
